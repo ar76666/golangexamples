@@ -1,6 +1,5 @@
 package golangexamples
 
-import "fmt"
 
 func ConcatSLice(sliceToConcat []byte) string {
 	var s string
